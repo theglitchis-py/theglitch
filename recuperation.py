@@ -1,4 +1,3 @@
-# Install avec py : export https_proxy="http://179.191.245.58:3128"
 import mysql.connector
 def connexion_base():
     try:
