@@ -1,4 +1,4 @@
-# theglitch
+# theglitch_keylogger_v1.0
 V1.0
 Hello being new in the field of development, I need to improve. and I therefore offer you my first software under construction.
 
