@@ -8,6 +8,7 @@ The other functions will come later.
 The keylogger is sent according to the size of the LOGS file.
 It is planned that I add several functions to familiarize myself with the libraries.
 You need the library : 
+
 time : https://www.programiz.com/python-programming/time
 
 random : https://docs.python.org/3/library/random.html
@@ -35,5 +36,5 @@ Il es prévue que je rajoute plusieurs fonction pour me familliarisé avec les b
 
 Vous arez besoin des bibliothèque :
 
-                      LIENS EN HAUT
+                                                         LIENS EN HAUT
 Je suis nouveau dans le developpement donc vous inquiétez pas si tout ne vas pas bien
