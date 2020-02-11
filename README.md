@@ -9,12 +9,19 @@ The keylogger is sent according to the size of the LOGS file.
 It is planned that I add several functions to familiarize myself with the libraries.
 You need the library : 
 time : https://www.programiz.com/python-programming/time
+
 random : https://docs.python.org/3/library/random.html
+
 logging : https://docs.python.org/3/library/logging.html
+
 pynput : https://pypi.org/project/pynput/
+
 os : https://docs.python.org/3/library/os.html
+
 ftplib : https://docs.python.org/3/library/ftplib.html
+
 mysql.connector : https://dev.mysql.com/doc/connector-python/en/
+
 I'm new to development so don't worry if all is not well
 _____________________________________________________________________________________________________________________________
 Bonjour étant nouveau dans le domaine du développement, je dois m'améliorer. et je vous propose donc mon premier logiciel encore construction.
@@ -27,11 +34,6 @@ Le keylogger s'envoie en fonction de la taille du fichier LOGS.
 Il es prévue que je rajoute plusieurs fonction pour me familliarisé avec les bibliothèques.
 
 Vous arez besoin des bibliothèque :
-time : https://www.programiz.com/python-programming/time
-random : https://docs.python.org/3/library/random.html
-logging : https://docs.python.org/3/library/logging.html
-pynput : https://pypi.org/project/pynput/
-os : https://docs.python.org/3/library/os.html
-ftplib : https://docs.python.org/3/library/ftplib.html
-mysql.connector : https://dev.mysql.com/doc/connector-python/en/
+
+                      LIENS EN HAUT
 Je suis nouveau dans le developpement donc vous inquiétez pas si tout ne vas pas bien
